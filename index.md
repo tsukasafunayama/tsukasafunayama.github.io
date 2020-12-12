@@ -4,3 +4,14 @@
 
 layout: home
 ---
+<html>
+<body>
+	<h1>つかさWEBサイト</h1>
+	<p>テストサイトです。</p>
+</body>
+</html>
+
+
+
+		
+
